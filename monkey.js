@@ -1,5 +1,5 @@
 var rest = require('restler');
-var pg = require('pg');
+var pg = require('pg.js');
 var Q = require('node-promise');
 var url = require('url');
 
